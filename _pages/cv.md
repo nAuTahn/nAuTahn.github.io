@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-For more information, please refer to my <a style="line-height: 1.5;" href="https://nAuTahn.github.io/CV.pdf"><span style="color: #333333;"><span>CV</span></span></a>.
+See my <a style="line-height: 1.5;" href="https://nAuTahn.github.io/CV.pdf"><span style="color: #333333;"><span>CV</span></span></a> for more information.
