@@ -15,8 +15,10 @@ If you have anything you'd like to discuss with me, feel free to reach out via:
 * Email: nguyentuananh212003@gmail.com
 * Facebook: facebook.com/anh.math0102
 
+My favorite quote: "The best way to predict the future is to invent it." (Alan Kay)
+
 ## Research Interests
-ABCXYZ.
+My research is driven by a deep interest in the theoretical foundations of Machine Learning and Optimization. And of course, I’ll be updating this section soon!
 
 ## Selected Publications
 [Toward Efficient Mixed-Integer Black-Box Optimization via Evolution Strategies with Plateau Handling Techniques](https://dl.acm.org/doi/10.1145/3712256.3726320) <br/>
