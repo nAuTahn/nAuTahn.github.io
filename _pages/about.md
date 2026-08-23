@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Tuan Anh.\
-I'm currently a master student in Computer Science at the [Ho Chi Minh University of Science, VNU-HCM](https://en.hcmus.edu.vn/). I previously earned my Bachelor's degree from the [University of Information Technology, VNU-HCM](https://en.wikipedia.org/wiki/University_of_Information_Technology). During my undergraduate studies, I joined the [Evolutionary Learning and Optimization](https://sites.google.com/view/evolve-learn-optimize) (ELO) Lab as a undergraduate research student, conducting research under the supervision of Dr. [Ngoc Hoang Luong](https://scholar.google.com.vn/citations?user=p3vHDZYAAAAJ&hl=en).
+I'm currently a master student in Computer Science at the [Ho Chi Minh University of Science, VNU-HCM](https://en.hcmus.edu.vn/). I previously earned my Bachelor's degree from the [University of Information Technology, VNU-HCM](https://en.uit.edu.vn/). During my undergraduate studies, I joined the [Evolutionary Learning and Optimization](https://sites.google.com/view/evolve-learn-optimize) (ELO) Lab as a undergraduate research student, conducting research under the supervision of Dr. [Ngoc Hoang Luong](https://scholar.google.com.vn/citations?user=p3vHDZYAAAAJ&hl=en).
 
 If you have anything you'd like to discuss with me, feel free to reach out via:
 * Email: nguyentuananh212003@gmail.com
