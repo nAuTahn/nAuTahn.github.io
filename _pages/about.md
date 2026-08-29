@@ -18,7 +18,7 @@ If you have anything you'd like to discuss with me, feel free to reach out via:
 My favorite quote: "The best way to predict the future is to invent it." (Alan Kay)
 
 ## Research Interests
-I am particularly drawn to research directions at the intersection of optimization and statistical learning theory, including the study of loss landscape structure, generalization behavior, and robustness of deep neural networks.
+I am particularly drawn to research directions at the intersection of optimization and statistical learning theory, including the study of loss landscape structure, generalization behavior, and robustness of deep neural networks. In addition, I have recently developed a growing interests in the mathematical aspects of generative models.
 
 I am always open to conversations and happy to discuss any of these topics. Over a cup of coffee, we can explore them together 🙂
 
